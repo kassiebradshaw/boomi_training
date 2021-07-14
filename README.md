@@ -1,4 +1,4 @@
-# Boomi Training Notes
+# Boomi Essentials Notes
 
 I'm currently trying to work towards a Dell Boomi developer certification. I've created this repo to keep track of my notes during the training courses.
 
